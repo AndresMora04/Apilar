@@ -6,6 +6,7 @@
 	<CircuitButton CircuitButtonId="8fecf005-1569-4ced-8786-352d27426342" IsToggle="True" />
 	<CircuitButton CircuitButtonId="e0eba4ba-aac5-4483-ac3a-6db0c2209d9f" IsToggle="True" />
 	<CircuitButton CircuitButtonId="1fca94e1-b7a0-47ab-b271-865078353a7b" IsToggle="True" />
+	<LedMatrix LedMatrixId="f04e29fb-3558-44ea-87ca-487cc98bc63e" Rows="4" Columns="4" />
 	<CircuitSymbol CircuitSymbolId="67caaa6d-489d-4123-a7da-b086e9bf3e5c" CircuitId="00000000-0000-0000-0000-000000080100" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X="21" Y="16" />
 	<CircuitSymbol CircuitSymbolId="028cf880-67ce-4e0a-b298-54c6fd5f371c" CircuitId="00000000-0000-0000-0000-000000020101" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X="14" Y="21" />
 	<CircuitSymbol CircuitSymbolId="81e9917a-46b3-4a09-9e84-4baa6cce4afa" CircuitId="00000000-0000-0000-0000-000000080100" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X="21" Y="11" />
@@ -16,6 +17,7 @@
 	<CircuitSymbol CircuitSymbolId="493574c5-b3f0-4c2b-8879-448998941084" CircuitId="e0eba4ba-aac5-4483-ac3a-6db0c2209d9f" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X="7" Y="22" />
 	<CircuitSymbol CircuitSymbolId="eac5e059-580f-4e5c-898e-68d51f6f19c2" CircuitId="00000000-0000-0000-0000-000000040200" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X="13" Y="10" />
 	<CircuitSymbol CircuitSymbolId="9ab2167d-dc06-43fc-8130-eef76eecffad" CircuitId="1fca94e1-b7a0-47ab-b271-865078353a7b" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X="7" Y="18" />
+	<CircuitSymbol CircuitSymbolId="85e4d495-6c76-460d-80bb-6f09640bb934" CircuitId="f04e29fb-3558-44ea-87ca-487cc98bc63e" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X="40" Y="14" />
 	<Wire WireId="da9d1b30-2bf5-45bd-9f5f-d630ed70e63c" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X1="10" Y1="17" X2="13" Y2="17" />
 	<Wire WireId="007651ea-eeb1-499d-9fbc-e07047dafc51" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X1="17" Y1="23" X2="21" Y2="23" />
 	<Wire WireId="c27115c4-cee5-47e4-9dac-8c2bc32b39c2" LogicalCircuitId="4b30ed68-feb7-4f4f-a8b7-376de3c1592a" X1="16" Y1="17" X2="21" Y2="17" />
